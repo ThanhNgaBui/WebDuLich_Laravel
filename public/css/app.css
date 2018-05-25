@@ -1,0 +1,31 @@
+body {
+  background: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-default {
+    background-color: #198A0C !important;
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: #5989df;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #e3e80c;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+    background-color: #5989df;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: antiquewhite;
+    background-color: transparent;
+}
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    color: #fff;
+    text-decoration: none;
+    background-color: #B90404;
+}
